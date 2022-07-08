@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ebube-io
-- 👀 I’m interested in App development with flutter and Web3
+- 👀 I’m interested in Mobile development with flutter and Web3
 - 🌱 I’m currently learning Dart/flutter
 - 💞️ I’m looking to collaborate on cross-platform Application projects with flutter.
 - 📫 Reach me on Twitter @ebubeikeanyi
