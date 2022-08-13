@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ebube-io
+- 👋 Hi, I’m Ebube
 - 👀 I’m interested in Mobile development with flutter and Web3
 - 🌱 I’m currently learning Dart/flutter
 - 💞️ I’m looking to collaborate on cross-platform Application projects with flutter.
