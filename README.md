@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ebube
 - 👀 I’m interested in cross-platform development and Web3
-- 🌱 I have basic HTML and CSS knowledge and I’m currently learning Dart/flutter
-- 💞️ I’m looking to collaborate on web and cross-platform Application projects with flutter.
+- 🌱 I have HTML and CSS knowledge and I’m currently learning Dart/flutter
+- 💞️ I’m looking to collaborate on web and cross-platform projects with flutter.
 - 📫 Reach me on Twitter @ebubeikeanyi
 
 <!---
